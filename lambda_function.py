@@ -25,7 +25,7 @@ def lambda_handler(event, context):
         # Build the SQL COPY command to load the CSV from S3 into the 'vendas' table
         copy_command = f"""
         COPY vendas FROM 's3://{s3_bucket}/{s3_key}'
-        CREDENTIALS 'aws_iam_role=arn:aws:iam::376129853185:role/NovaIAMRoleRedshift'
+        CREDENTIALS 'aws_iam_role=arn:aws:iam::123456789:role/IAMRoleRedshift'
         CSV
         IGNOREHEADER 1
         DELIMITER ','

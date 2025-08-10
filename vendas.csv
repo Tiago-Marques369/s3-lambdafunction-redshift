@@ -1,0 +1,11 @@
+id_venda,data_venda,id_cliente,produto,quantidade,valor_total,forma_pagamento
+1001,2023-05-15,2054,Notebook Dell,1,4599.90,Cartão de Crédito
+1002,2023-05-15,2055,Smartphone Samsung,2,3198.00,PIX
+1003,2023-05-16,2056,Tablet Lenovo,1,1299.90,Boleto
+1004,2023-05-17,2057,Fone de Ouvido Bluetooth,3,597.00,Cartão de Débito
+1005,2023-05-18,2058,"Monitor 24""",1,899.90,Cartão de Crédito
+1006,2023-05-18,2059,Teclado Mecânico,2,458.00,PIX
+1007,2023-05-19,2060,Mouse Gamer,1,249.90,Boleto
+1008,2023-05-20,2061,Cadeira Gamer,1,1299.90,Cartão de Crédito
+1009,2023-05-21,2062,SSD 1TB,1,399.90,Cartão de Débito
+1010,2023-05-22,2063,Webcam Full HD,2,499.80,PIX
