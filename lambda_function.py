@@ -1,4 +1,3 @@
-import boto3  # AWS SDK, not used directly here but useful for other operations
 import psycopg2  # Driver to connect to Redshift/PostgreSQL
 import logging  # To log Lambda function info and errors
 import os  # To access environment variables
